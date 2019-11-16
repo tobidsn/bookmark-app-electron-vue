@@ -20,6 +20,8 @@ npm run build
 # Screenshot
 
 ![image](https://github.com/tobidsn/bookmark-app-electron-vue/raw/master/bookmark-app.png)
+![image](https://github.com/tobidsn/bookmark-app-electron-vue/raw/master/bookmark-app-new.png)
+![image](https://github.com/tobidsn/bookmark-app-electron-vue/raw/master/bookmark-app-edit.png)
 
 ---
 
